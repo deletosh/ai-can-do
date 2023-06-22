@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "AI Can Do",
+  "version": "1.0.0",
+  "description": "Need to get a task done? There's an AI for that. Find it now",
+  "author": "ask@deletosh.com",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "public/images/16x16.png",
+    "32": "public/images/32x32.png",
+    "48": "public/images/48x48.png",
+    "128": "public/images/128x128.png"
+  }
+}
