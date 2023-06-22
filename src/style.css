@@ -1,0 +1,6 @@
+html {
+    min-height: 5em;
+    min-width: 25em;
+    padding: 0.25em;
+    background: salmon;
+}
